@@ -1,4 +1,3 @@
-# responsive-animated-login-signup-form
 # Responsive Login & Register UI
 
 A modern, fully responsive Login & Register interface built using **HTML, CSS, and JavaScript**.  
